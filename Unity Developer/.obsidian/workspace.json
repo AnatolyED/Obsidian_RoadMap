@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "2dfb8881f9ed3567",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ff0e0f5e0f2bf1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2e3a575cc82d0c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шарп уровень 1/Переменные.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43f0bead9b6dadb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "34e31f1431f2f7b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbc1b12b29c97d74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62a138f344e78fbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4561fc8bde1eb56",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71f8476ed13542d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e457c0c05468d9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51a97ca568c69dfa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Шарп уровень 1/Переменные.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec79cd62d39a6608",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Шарп уровень 1/Переменные.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1ac894fd1d21272",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d3c709f6b39cf954",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Шарп уровень 1/Переменные.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "f2e3a575cc82d0c0",
+  "lastOpenFiles": [
+    "Шарп уровень 1/Перечисления Enum.md",
+    "Шарп уровень 1/Циклы.md",
+    "Шарп уровень 1/Условия.md",
+    "Шарп уровень 1/Массивы.md",
+    "Шарп уровень 1/1 уровень (шарп).md",
+    "Шарп уровень 1/Коллекции.md",
+    "RoadMap.canvas",
+    "Шарп уровень 1/Переменные.md",
+    "Шарп уровень 2/2 уровень (шарп).md",
+    "Без названия.canvas",
+    "Шарп.md",
+    "Unity.md",
+    "Шарп уровень 2",
+    "Шарп уровень 1",
+    "создайте ссылку.md",
+    "Unity Developer",
+    "Добро пожаловать.md"
+  ]
+}

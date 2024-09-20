@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"d8d0ec4073945e5e","type":"file","file":"Unity.md","x":60,"y":-100,"width":400,"height":400},
+		{"id":"f6b9590a345b49ab","type":"file","file":"Шарп уровень 2/2 уровень (шарп).md","x":-680,"y":-1080,"width":400,"height":400},
+		{"id":"98ebc855bbadd5cf","type":"file","file":"Шарп.md","x":-680,"y":460,"width":400,"height":400},
+		{"id":"03d4ccfb6a100a02","type":"file","file":"Шарп уровень 1/1 уровень (шарп).md","x":-680,"y":-460,"width":400,"height":400},
+		{"id":"25d1ca402f298edc","type":"file","file":"Шарп уровень 1/Переменные.md","x":-1600,"y":460,"width":400,"height":400},
+		{"id":"dace5b1da6c26b0e","x":-1600,"y":0,"width":400,"height":400,"type":"file","file":"Шарп уровень 1/Условия.md"},
+		{"id":"f953fde7b48118f0","type":"file","file":"Шарп уровень 1/Циклы.md","x":-1600,"y":-460,"width":400,"height":400},
+		{"id":"3a927829d26b1566","type":"file","file":"Шарп уровень 1/Массивы.md","x":-1600,"y":-920,"width":400,"height":400},
+		{"id":"b14be29e712aa205","type":"file","file":"Шарп уровень 1/Коллекции.md","x":-1600,"y":-1400,"width":400,"height":400},
+		{"id":"289f10419c0247d8","type":"file","file":"Шарп уровень 1/Перечисления Enum.md","x":-1600,"y":-1880,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"90636212f6576071","fromNode":"98ebc855bbadd5cf","fromSide":"top","toNode":"03d4ccfb6a100a02","toSide":"bottom"},
+		{"id":"e8600f242a03d853","fromNode":"03d4ccfb6a100a02","fromSide":"top","toNode":"f6b9590a345b49ab","toSide":"bottom"},
+		{"id":"c011694fca1f8a11","fromNode":"03d4ccfb6a100a02","fromSide":"left","toNode":"25d1ca402f298edc","toSide":"right"},
+		{"id":"02a23111f48871b5","fromNode":"03d4ccfb6a100a02","fromSide":"left","toNode":"f953fde7b48118f0","toSide":"right"},
+		{"id":"520bee47703da2ea","fromNode":"03d4ccfb6a100a02","fromSide":"left","toNode":"289f10419c0247d8","toSide":"right"},
+		{"id":"a45dfacc649ede63","fromNode":"03d4ccfb6a100a02","fromSide":"left","toNode":"3a927829d26b1566","toSide":"right"},
+		{"id":"ec5b360c2cccf7fe","fromNode":"03d4ccfb6a100a02","fromSide":"left","toNode":"b14be29e712aa205","toSide":"right"}
+	]
+}
