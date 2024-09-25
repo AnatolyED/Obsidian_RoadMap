@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп уровень 1/Переменные.md",
+                "file": "Шарп уровень 1/Кодировки.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шарп уровень 1/Переменные.md",
+                "file": "Шарп уровень 1/Кодировки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шарп уровень 1/Переменные.md",
+                "file": "Шарп уровень 1/Кодировки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шарп уровень 1/Переменные.md"
+                "file": "Шарп уровень 1/Кодировки.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "f2e3a575cc82d0c0",
   "lastOpenFiles": [
-    "RoadMap.canvas",
+    "Шарп уровень 1/UTF ALL.png",
+    "Шарп уровень 1/UTF-8.png",
+    "Шарп уровень 1/Кодировки.md",
+    "Шарп уровень 1/ASCII.png",
     "Шарп уровень 1/Переменные.md",
+    "RoadMap.canvas",
     "Шарп уровень 1/Перечисления Enum.md",
     "Шарп уровень 1/Циклы.md",
     "Шарп уровень 1/Условия.md",
