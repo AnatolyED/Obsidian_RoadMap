@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп уровень 1/Кодировки.md",
+                "file": "Шарп.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b648b61f6927ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Отделено от Unity Developer/Работа  с консолью.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шарп уровень 1/Кодировки.md",
+                "file": "Отделено от Unity Developer/Работа  с консолью.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шарп уровень 1/Кодировки.md",
+                "file": "Отделено от Unity Developer/Работа  с консолью.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шарп уровень 1/Кодировки.md"
+                "file": "Отделено от Unity Developer/Работа  с консолью.md"
               }
             }
           }
@@ -146,14 +159,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f2e3a575cc82d0c0",
+  "active": "4b648b61f6927ff7",
   "lastOpenFiles": [
+    "Pasted image 20240927161702.png",
+    "Отделено от Unity Developer",
+    "Шарп.md",
+    "Отделено от Unity Developer/Работа  с консолью.md",
+    "Шарп уровень 1/Кодировки.md",
     "Pasted image 20240926162152.png",
     "Pasted image 20240926161758.png",
     "Pasted image 20240926154901.png",
     "Шарп уровень 1/UTF ALL.png",
     "Шарп уровень 1/UTF-8.png",
-    "Шарп уровень 1/Кодировки.md",
     "Шарп уровень 1/ASCII.png",
     "Шарп уровень 1/Переменные.md",
     "RoadMap.canvas",
@@ -165,7 +182,6 @@
     "Шарп уровень 1/Коллекции.md",
     "Шарп уровень 2/2 уровень (шарп).md",
     "Без названия.canvas",
-    "Шарп.md",
     "Unity.md",
     "Шарп уровень 2",
     "Шарп уровень 1",
