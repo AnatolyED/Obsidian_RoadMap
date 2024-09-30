@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b648b61f6927ff7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Отделено от Unity Developer/Работа  с консолью.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,19 +146,20 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4b648b61f6927ff7",
+  "active": "bbc1b12b29c97d74",
   "lastOpenFiles": [
-    "Pasted image 20240927161702.png",
+    "Шарп уровень 1/Parsing.png",
+    "Отделено от Unity Developer/Write и WriteLine.png",
+    "Отделено от Unity Developer/Работа  с консолью.md",
+    "Шарп уровень 1/UTF-8 в Base64.png",
+    "Шарп уровень 1/ASCII.png",
+    "Шарп уровень 1/UTF-16.png",
+    "Шарп уровень 1/Encoding.png",
     "Отделено от Unity Developer",
     "Шарп.md",
-    "Отделено от Unity Developer/Работа  с консолью.md",
     "Шарп уровень 1/Кодировки.md",
-    "Pasted image 20240926162152.png",
-    "Pasted image 20240926161758.png",
-    "Pasted image 20240926154901.png",
     "Шарп уровень 1/UTF ALL.png",
     "Шарп уровень 1/UTF-8.png",
-    "Шарп уровень 1/ASCII.png",
     "Шарп уровень 1/Переменные.md",
     "RoadMap.canvas",
     "Шарп уровень 1/Перечисления Enum.md",
