@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Отделено от Unity Developer/Работа  с консолью.md",
+                "file": "Шарп уровень 1/Массивы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Отделено от Unity Developer/Работа  с консолью.md",
+                "file": "Шарп уровень 1/Массивы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Отделено от Unity Developer/Работа  с консолью.md",
+                "file": "Шарп уровень 1/Массивы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Отделено от Unity Developer/Работа  с консолью.md"
+                "file": "Шарп уровень 1/Массивы.md"
               }
             }
           }
@@ -146,11 +146,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "bbc1b12b29c97d74",
+  "active": "f2e3a575cc82d0c0",
   "lastOpenFiles": [
+    "Шарп уровень 1/Коллекции.md",
+    "Шарп уровень 1/Массивы.md",
+    "Отделено от Unity Developer/Работа  с консолью.md",
     "Шарп уровень 1/Parsing.png",
     "Отделено от Unity Developer/Write и WriteLine.png",
-    "Отделено от Unity Developer/Работа  с консолью.md",
     "Шарп уровень 1/UTF-8 в Base64.png",
     "Шарп уровень 1/ASCII.png",
     "Шарп уровень 1/UTF-16.png",
@@ -165,9 +167,7 @@
     "Шарп уровень 1/Перечисления Enum.md",
     "Шарп уровень 1/Циклы.md",
     "Шарп уровень 1/Условия.md",
-    "Шарп уровень 1/Массивы.md",
     "Шарп уровень 1/1 уровень (шарп).md",
-    "Шарп уровень 1/Коллекции.md",
     "Шарп уровень 2/2 уровень (шарп).md",
     "Без названия.canvas",
     "Unity.md",
