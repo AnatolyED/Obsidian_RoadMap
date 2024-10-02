@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп уровень 1/Массивы.md",
+                "file": "Шарп уровень 1/Переменные.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шарп уровень 1/Массивы.md",
+                "file": "Шарп уровень 1/Переменные.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шарп уровень 1/Массивы.md",
+                "file": "Шарп уровень 1/Переменные.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шарп уровень 1/Массивы.md"
+                "file": "Шарп уровень 1/Переменные.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "f2e3a575cc82d0c0",
   "lastOpenFiles": [
     "Шарп уровень 1/Коллекции.md",
+    "Шарп уровень 1/Переменные.md",
     "Шарп уровень 1/Массивы.md",
     "Отделено от Unity Developer/Работа  с консолью.md",
     "Шарп уровень 1/Parsing.png",
@@ -162,7 +163,6 @@
     "Шарп уровень 1/Кодировки.md",
     "Шарп уровень 1/UTF ALL.png",
     "Шарп уровень 1/UTF-8.png",
-    "Шарп уровень 1/Переменные.md",
     "RoadMap.canvas",
     "Шарп уровень 1/Перечисления Enum.md",
     "Шарп уровень 1/Циклы.md",
