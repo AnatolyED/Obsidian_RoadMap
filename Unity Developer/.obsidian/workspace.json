@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп уровень 1/Исключения и их обработка.md",
+                "file": "Шарп уровень 2/Классы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шарп уровень 1/Исключения и их обработка.md",
+                "file": "Шарп уровень 2/Классы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шарп уровень 1/Исключения и их обработка.md",
+                "file": "Шарп уровень 2/Классы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шарп уровень 1/Исключения и их обработка.md"
+                "file": "Шарп уровень 2/Классы.md"
               }
             }
           }
@@ -148,6 +148,16 @@
   },
   "active": "f2e3a575cc82d0c0",
   "lastOpenFiles": [
+    "Pasted image 20241010173332.png",
+    "Pasted image 20241010172954.png",
+    "Шарп уровень 2/Статичный класс.png",
+    "Шарп уровень 2/2 уровень (шарп).md",
+    "Шарп уровень 2/Классы.md",
+    "Шарп уровень 2/Patrial класс.png",
+    "Шарп уровень 2/Свойства.md",
+    "Pasted image 20241010160627.png",
+    "Шарп уровень 2/ООП.md",
+    "Шарп уровень 1/Исключения и их обработка.md",
     "Отделено от Unity Developer/Работа  с консолью.md",
     "Шарп уровень 1/Условия.md",
     "Шарп уровень 1/Перечисления Enum.md",
@@ -155,7 +165,6 @@
     "Шарп уровень 1/Массивы.md",
     "Шарп уровень 1/Коллекции.md",
     "Шарп уровень 1/Кодировки.md",
-    "Шарп уровень 1/Исключения и их обработка.md",
     "Шарп уровень 1/Всякая всячина.md",
     "Шарп уровень 1/1 уровень (шарп).md",
     "Шарп уровень 1/ExceptionsPng/Pasted image 20241007164349.png",
@@ -164,17 +173,12 @@
     "Шарп уровень 1/ExceptionsPng/Pasted image 20241007164818.png",
     "Шарп уровень 1/ExceptionsPng/Pasted image 20241007152855.png",
     "Шарп уровень 1/ExceptionsPng/Pasted image 20241007160357.png",
-    "Шарп уровень 1/ExceptionsPng/Pasted image 20241007153557.png",
-    "Шарп уровень 1/ExceptionsPng/Pasted image 20241007152935.png",
-    "Шарп уровень 1/ExceptionsPng/Pasted image 20241004175643.png",
-    "Шарп уровень 1/ExceptionsPng/Pasted image 20241004172955.png",
     "Шарп уровень 1/ExceptionsPng",
     "Шарп уровень 1/Всячина",
     "Отделено от Unity Developer",
     "Шарп.md",
     "RoadMap.canvas",
     "Шарп уровень 1/Циклы.md",
-    "Шарп уровень 2/2 уровень (шарп).md",
     "Без названия.canvas",
     "Unity.md",
     "Шарп уровень 2",
