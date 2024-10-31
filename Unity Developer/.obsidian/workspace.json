@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп уровень 1/Перечисления Enum.md",
+                "file": "Шарп уровень 2/Анонимные типы, кортежи, лямбда-выражения и анонимные методы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Перечисления Enum"
+              "title": "Анонимные типы, кортежи, лямбда-выражения и анонимные методы"
             }
           }
         ],
@@ -179,20 +179,21 @@
   },
   "active": "e5080b3d7471daec",
   "lastOpenFiles": [
+    "Pasted image 20241031171247.png",
+    "Pasted image 20241031171025.png",
+    "Pasted image 20241031170734.png",
+    "Pasted image 20241031170520.png",
+    "Pasted image 20241031164942.png",
+    "Шарп уровень 1/Перечисления Enum.md",
+    "Шарп уровень 2/Анонимные типы, кортежи, лямбда-выражения и анонимные методы.md",
     "Pasted image 20241030171655.png",
     "Pasted image 20241030165856.png",
     "Pasted image 20241030165814.png",
     "Pasted image 20241030165756.png",
     "Pasted image 20241030164702.png",
     "Pasted image 20241030164307.png",
-    "Pasted image 20241030164232.png",
-    "Pasted image 20241030164145.png",
-    "Pasted image 20241030161730.png",
     "Шарп уровень 2/Структуры.md",
     "Шарп уровень 2/Стэк и Куча.md",
-    "Шарп уровень 2/stuct vs class.png",
-    "Шарп уровень 2/Memory allocation.png",
-    "Шарп уровень 1/Перечисления Enum.md",
     "Шарп уровень 2/Интерфейсы.md",
     "Шарп уровень 2/2 уровень (шарп).md",
     "Шарп уровень 2/Классы.md",
