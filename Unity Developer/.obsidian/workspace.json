@@ -55,28 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп уровень 2/Алгоритмы.md",
+                "file": "Базы данных/PostgreSQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Алгоритмы"
-            }
-          },
-          {
-            "id": "30533df6aea41ac8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "PostgreSQL"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,27 +205,30 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "30533df6aea41ac8",
+  "active": "d526f6ab38062ccc",
   "lastOpenFiles": [
+    "Шарп уровень 2/Чтение из файлов.md",
+    "Базы данных/PostgreSQL.md",
+    "Базы данных",
+    "Шарп уровень 2/Без названия.md",
+    "Pasted image 20241122172206.png",
+    "Pasted image 20241122165734.png",
+    "Шарп уровень 2/Анонимные типы, кортежи, лямбда-выражения и анонимные методы.md",
     "Pasted image 20241119174642.png",
+    "Pasted image 20241122165129.png",
     "Pasted image 20241119174431.png",
     "Pasted image 20241119174126.png",
+    "Шарп уровень 2/Алгоритмы.md",
     "Шарп уровень 2/Изображения/Pasted image 20241119173900.png",
     "Шарп уровень 2/Изображения/Pasted image 20241028152730.png",
-    "Шарп уровень 2/Алгоритмы.md",
     "Шарп уровень 2/Изображения/Pasted image 20241119172117.png",
     "Шарп уровень 1/Перечисления Enum.md",
     "Шарп уровень 2/Структуры.md",
     "Шарп уровень 2/Стэк и Куча.md",
-    "Шарп уровень 2/Анонимные типы, кортежи, лямбда-выражения и анонимные методы.md",
     "Шарп уровень 2/2 уровень (шарп).md",
     "Шарп уровень 2/LINQ.md",
     "Шарп уровень 2/Свойства.md",
     "Шарп уровень 2/Memory allocation.png",
-    "Шарп уровень 2/stuct vs class.png",
-    "Шарп уровень 2/Изображения/Pasted image 20241101161738.png",
-    "Шарп уровень 2/Изображения/Pasted image 20241031171247.png",
-    "Шарп уровень 2/Изображения/Pasted image 20241031171025.png",
     "Шарп уровень 2/Интерфейсы.md",
     "Шарп уровень 2/Классы.md",
     "Шарп уровень 2/ООП.md",
@@ -261,8 +252,6 @@
     "Unity.md",
     "Шарп уровень 2",
     "Шарп уровень 1",
-    "создайте ссылку.md",
-    "Unity Developer",
-    "Добро пожаловать.md"
+    "Unity Developer"
   ]
 }
