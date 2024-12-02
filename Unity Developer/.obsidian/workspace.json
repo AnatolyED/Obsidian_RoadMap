@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Базы данных/PostgreSQL.md",
+                "file": "Шарп уровень 2/Деревья и кучи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL"
+              "title": "Деревья и кучи"
             }
           }
         ],
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Абстрактный_класс",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,10 +208,15 @@
   },
   "active": "d526f6ab38062ccc",
   "lastOpenFiles": [
+    "Pasted image 20241202180033.png",
+    "Pasted image 20241202173441.png",
+    "Pasted image 20241202172752.png",
+    "Pasted image 20241202172714.png",
+    "Шарп уровень 2/Алгоритмы.md",
+    "Шарп уровень 2/Деревья и кучи.md",
     "Шарп уровень 2/Чтение из файлов.md",
     "Базы данных/PostgreSQL.md",
     "Базы данных",
-    "Шарп уровень 2/Без названия.md",
     "Pasted image 20241122172206.png",
     "Pasted image 20241122165734.png",
     "Шарп уровень 2/Анонимные типы, кортежи, лямбда-выражения и анонимные методы.md",
@@ -218,17 +224,13 @@
     "Pasted image 20241122165129.png",
     "Pasted image 20241119174431.png",
     "Pasted image 20241119174126.png",
-    "Шарп уровень 2/Алгоритмы.md",
     "Шарп уровень 2/Изображения/Pasted image 20241119173900.png",
-    "Шарп уровень 2/Изображения/Pasted image 20241028152730.png",
-    "Шарп уровень 2/Изображения/Pasted image 20241119172117.png",
     "Шарп уровень 1/Перечисления Enum.md",
     "Шарп уровень 2/Структуры.md",
     "Шарп уровень 2/Стэк и Куча.md",
     "Шарп уровень 2/2 уровень (шарп).md",
     "Шарп уровень 2/LINQ.md",
     "Шарп уровень 2/Свойства.md",
-    "Шарп уровень 2/Memory allocation.png",
     "Шарп уровень 2/Интерфейсы.md",
     "Шарп уровень 2/Классы.md",
     "Шарп уровень 2/ООП.md",
@@ -249,7 +251,6 @@
     "RoadMap.canvas",
     "Шарп уровень 1/Циклы.md",
     "Без названия.canvas",
-    "Unity.md",
     "Шарп уровень 2",
     "Шарп уровень 1",
     "Unity Developer"
