@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2e3a575cc82d0c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шарп уровень 1/Исключения и их обработка.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Исключения и их обработка"
-            }
-          },
-          {
-            "id": "e5080b3d7471daec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шарп уровень 2/Анонимные типы, кортежи, лямбда-выражения и анонимные методы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Анонимные типы, кортежи, лямбда-выражения и анонимные методы"
-            }
-          },
-          {
-            "id": "0ba36af403dc2248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шарп уровень 2/Алгоритмы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Алгоритмы"
-            }
-          },
-          {
             "id": "d526f6ab38062ccc",
             "type": "leaf",
             "state": {
@@ -63,8 +21,7 @@
               "title": "Деревья и кучи"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,23 +165,23 @@
   },
   "active": "d526f6ab38062ccc",
   "lastOpenFiles": [
-    "Pasted image 20241202180033.png",
-    "Pasted image 20241202173441.png",
-    "Pasted image 20241202172752.png",
-    "Pasted image 20241202172714.png",
+    "Pasted image 20241204175001.png",
+    "Pasted image 20241204174115.png",
+    "Pasted image 20241204174022.png",
+    "Pasted image 20241204173436.png",
+    "Pasted image 20241204173048.png",
+    "Pasted image 20241204173042.png",
+    "Pasted image 20241204172529.png",
+    "Pasted image 20241204172341.png",
+    "Pasted image 20241204153022.png",
+    "Pasted image 20241204152558.png",
+    "Pasted image 20241204152451.png",
     "Шарп уровень 2/Алгоритмы.md",
     "Шарп уровень 2/Деревья и кучи.md",
     "Шарп уровень 2/Чтение из файлов.md",
     "Базы данных/PostgreSQL.md",
     "Базы данных",
-    "Pasted image 20241122172206.png",
-    "Pasted image 20241122165734.png",
     "Шарп уровень 2/Анонимные типы, кортежи, лямбда-выражения и анонимные методы.md",
-    "Pasted image 20241119174642.png",
-    "Pasted image 20241122165129.png",
-    "Pasted image 20241119174431.png",
-    "Pasted image 20241119174126.png",
-    "Шарп уровень 2/Изображения/Pasted image 20241119173900.png",
     "Шарп уровень 1/Перечисления Enum.md",
     "Шарп уровень 2/Структуры.md",
     "Шарп уровень 2/Стэк и Куча.md",
