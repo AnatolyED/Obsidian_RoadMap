@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп уровень 2/Деревья и кучи.md",
+                "file": "Шарп уровень 2/Code style от Майкрософт, DRY,DIE, Yagni, KISS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Деревья и кучи"
+              "title": "Code style от Майкрософт, DRY,DIE, Yagni, KISS"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,6 +164,12 @@
   },
   "active": "d526f6ab38062ccc",
   "lastOpenFiles": [
+    "Pasted image 20241211175417.png",
+    "Pasted image 20241211175249.png",
+    "Pasted image 20241211175214.png",
+    "Pasted image 20241211174844.png",
+    "Шарп уровень 2/Деревья и кучи.md",
+    "Шарп уровень 2/Code style от Майкрософт, DRY,DIE, Yagni, KISS.md",
     "Pasted image 20241204175001.png",
     "Pasted image 20241204174115.png",
     "Pasted image 20241204174022.png",
@@ -172,12 +177,7 @@
     "Pasted image 20241204173048.png",
     "Pasted image 20241204173042.png",
     "Pasted image 20241204172529.png",
-    "Pasted image 20241204172341.png",
-    "Pasted image 20241204153022.png",
-    "Pasted image 20241204152558.png",
-    "Pasted image 20241204152451.png",
     "Шарп уровень 2/Алгоритмы.md",
-    "Шарп уровень 2/Деревья и кучи.md",
     "Шарп уровень 2/Чтение из файлов.md",
     "Базы данных/PostgreSQL.md",
     "Базы данных",
@@ -206,7 +206,6 @@
     "Отделено от Unity Developer",
     "Шарп.md",
     "RoadMap.canvas",
-    "Шарп уровень 1/Циклы.md",
     "Без названия.canvas",
     "Шарп уровень 2",
     "Шарп уровень 1",
