@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп уровень 3/Работа с файлами.md",
+                "file": "Шарп уровень 3/Работа с Environment, Path.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Работа с файлами"
+              "title": "Работа с Environment, Path"
             }
           }
         ]
@@ -164,12 +164,17 @@
   },
   "active": "d526f6ab38062ccc",
   "lastOpenFiles": [
+    "Pasted image 20250112231823.png",
+    "Pasted image 20250112225814.png",
+    "Шарп уровень 3/Pasted image 20250110142324.png",
+    "Шарп уровень 3/Работа с файлами.md",
+    "Шарп уровень 3/Асинхронная обработка файлов.md",
+    "Pasted image 20250112203759.png",
     "Pasted image 20250110174235.png",
     "Pasted image 20250110173234.png",
-    "Шарп уровень 3/Pasted image 20250110142324.png",
+    "Шарп уровень 3/Работа с Environment, Path.md",
     "Шарп уровень 2/Изображения/Pasted image 20241010173332.png",
     "Шарп уровень 2/Изображения/Pasted image 20241010172954.png",
-    "Шарп уровень 3/Работа с файлами.md",
     "Шарп уровень 2/Изображения/Pasted image 20241119174126.png",
     "Шарп уровень 2/Чтение из файлов.md",
     "Отделено от Unity Developer/Telegram API/Основа.md",
@@ -177,8 +182,6 @@
     "Отделено от Unity Developer/Telegram API/Методы в API.md",
     "Шарп уровень 2/Изображения/Pasted image 20241216170525.png",
     "Шарп уровень 2/Изображения/Pasted image 20241216170033.png",
-    "Шарп уровень 2/Изображения/Pasted image 20241216165949.png",
-    "Шарп уровень 2/Изображения/Pasted image 20241216165659.png",
     "Шарп уровень 2/Code style от Майкрософт, DRY,DIE, Yagni, KISS.md",
     "Отделено от Unity Developer/Telegram API",
     "Шарп уровень 2/ООП.md",
@@ -191,7 +194,6 @@
     "RoadMap.canvas",
     "Базы данных/PostgreSQL.md",
     "Отделено от Unity Developer/Работа  с консолью.md",
-    "Отделено от Unity Developer/Write и WriteLine.png",
     "Шарп уровень 1/1 уровень (шарп).md",
     "Шарп уровень 1/Всякая всячина.md",
     "Базы данных",
@@ -203,8 +205,6 @@
     "Шарп уровень 2/Изображения",
     "Шарп уровень 1/Исключения и их обработка.md",
     "Шарп уровень 1/Условия.md",
-    "Шарп уровень 1/Переменные.md",
-    "Шарп уровень 1/Массивы.md",
     "Шарп уровень 1/ExceptionsPng",
     "Шарп уровень 1/Всячина",
     "Отделено от Unity Developer",
