@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d526f6ab38062ccc",
+            "id": "108e232f9698facd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шарп уровень 3/Generic коллекции.md",
+                "file": "Базы данных/Индексы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generic коллекции"
+              "title": "Индексы"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шарп уровень 2/ООП.md",
+                "file": "Шарп уровень 3/Observable, Immutable и Concurrent коллекции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для ООП"
+              "title": "Обратные ссылки для Observable, Immutable и Concurrent коллекции"
             }
           },
           {
@@ -162,47 +163,47 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "bbc1b12b29c97d74",
+  "active": "108e232f9698facd",
   "lastOpenFiles": [
-    "Pasted image 20250120215741.png",
-    "Pasted image 20250120215541.png",
-    "Pasted image 20250120215317.png",
-    "Pasted image 20250120172639.png",
-    "Pasted image 20250120170400.png",
-    "Pasted image 20250120170244.png",
-    "Шарп уровень 3/Работа с файлами.md",
+    "Базы данных/Хранимые процедуры, функции и временные таблицы.md",
+    "Базы данных/Индексы.md",
+    "Pasted image 20250208004826.png",
+    "Базы данных/PostgreSQL.md",
+    "Pasted image 20250207165307.png",
+    "Шарп уровень 3/Асинхронная обработка файлов.md",
+    "Шарп уровень 2/Кортежи.md",
+    "Базы данных/Npgsql.md",
+    "Базы данных/SQL и таблицы.md",
+    "Базы данных/Выборки данных.md",
+    "Pasted image 20250202145106.png",
+    "Pasted image 20250202145038.png",
+    "Pasted image 20250202144910.png",
+    "Pasted image 20250202144624.png",
+    "Pasted image 20250202141819.png",
+    "Pasted image 20250202141449.png",
+    "Шарп уровень 3/Обобщенные делегаты (Action, Predicate, Func).md",
+    "Pasted image 20250128161556.png",
+    "Pasted image 20250128161546.png",
+    "Шарп уровень 3/LINQ запросы.md",
+    "Шарп уровень 3/LINQ.md",
+    "Шарп уровень 3/Observable, Immutable и Concurrent коллекции.md",
+    "Шарп уровень 3/Паттерны.md",
     "Шарп уровень 3/Работа с Environment, Path.md",
-    "Pasted image 20250120170200.png",
-    "Pasted image 20250120170155.png",
     "Шарп уровень 3/Generic коллекции.md",
-    "Pasted image 20250120165925.png",
-    "Pasted image 20250120165547.png",
-    "Pasted image 20250120163710.png",
+    "Шарп уровень 3/Работа с файлами.md",
     "Шарп уровень 2/Анонимные типы, кортежи, лямбда-выражения и анонимные методы.md",
     "Шарп уровень 2/Алгоритмы.md",
     "Шарп уровень 3/Основные коллекции - очередь, стек, хэшсет, словарь.md",
     "Шарп уровень 3/Словарь.md",
-    "Шарп уровень 3/Асинхронная обработка файлов.md",
     "Шарп уровень 1/Коллекции.md",
     "Шарп уровень 2/Свойства.md",
     "Шарп уровень 2/Структуры.md",
     "Шарп уровень 2/ООП.md",
     "Шарп уровень 2/Классы.md",
     "Шарп уровень 2/Чтение из файлов.md",
-    "Шарп уровень 2/Стэк и Куча.md",
-    "Шарп уровень 1/Всякая всячина.md",
-    "Отделено от Unity Developer/Telegram API/Основа.md",
     "Шарп уровень 3",
-    "Отделено от Unity Developer/Telegram API/Методы в API.md",
-    "Шарп уровень 2/Code style от Майкрософт, DRY,DIE, Yagni, KISS.md",
     "Отделено от Unity Developer/Telegram API",
-    "Шарп уровень 2/Интерфейсы.md",
-    "Шарп уровень 2/Деревья и кучи.md",
-    "Шарп уровень 2/2 уровень (шарп).md",
     "RoadMap.canvas",
-    "Базы данных/PostgreSQL.md",
-    "Отделено от Unity Developer/Работа  с консолью.md",
-    "Шарп уровень 1/1 уровень (шарп).md",
     "Базы данных",
     "Шарп уровень 2/Изображения",
     "Шарп уровень 1/ExceptionsPng",
